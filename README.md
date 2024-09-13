@@ -17,4 +17,5 @@
 3. [Lab 03](https://github.com/2303A51889/AIMI--2025/blob/main/Lab_03.ipynb); Introduction to Python Libraries-Numpy
 4. [Lab 04](https://github.com/2303A51889/AIMI--2025/blob/main/Lab_04.ipynb); Introduction to Python Libraries-Numpy
 5. [Lab 05](https://github.com/2303A51889/AIMI--2025/blob/main/Lab05_AIML.ipynb); Introduction to Python Libraries-Numpy
-6. 
+6. [Lab 06](https://github.com/2303A51889/AIMI--2025/blob/main/Lab05_AIML.ipynb); Introduction to Python Libraries-Numpy
+ 
